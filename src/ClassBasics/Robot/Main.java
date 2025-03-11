@@ -1,4 +1,4 @@
-package Robot;
+package ClassBasics.Robot;
 
 public class Main {
     public static void main(String[] args) {

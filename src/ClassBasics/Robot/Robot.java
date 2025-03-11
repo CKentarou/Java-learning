@@ -1,4 +1,4 @@
-package Robot;
+package ClassBasics.Robot;
 
 public class Robot {
     private String name;

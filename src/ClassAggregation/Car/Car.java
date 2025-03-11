@@ -1,5 +1,5 @@
-package Car;
-import Human02.Human;
+package ClassAggregation.Car;
+import ClassInheritance.Human02.Human;
 
 public class Car {
     private Human driver;

@@ -1,4 +1,4 @@
-package Card;
+package ClassBasics.Card;
 
 public class Card {
     private int number;

@@ -1,6 +1,6 @@
-package Car;
-import Human02.Esper;
-import Human02.Human;
+package ClassAggregation.Car;
+import ClassInheritance.Human02.Esper;
+import ClassInheritance.Human02.Human;
 
 public class Main {
     public static void main(String[] args) {

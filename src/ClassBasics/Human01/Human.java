@@ -1,4 +1,4 @@
-package Human01;
+package ClassBasics.Human01;
 
 public class Human {
     private String name;

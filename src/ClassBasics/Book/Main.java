@@ -1,4 +1,4 @@
-package Book;
+package ClassBasics.Book;
 
 public class Main {
     public static void main(String[] args) {

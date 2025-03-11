@@ -1,4 +1,4 @@
-package Chara01;
+package ClassBasics.Chara01;
 
 public class BattleOf2Charactors {
     public static void main(String[] args) {

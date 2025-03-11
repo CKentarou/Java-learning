@@ -1,4 +1,4 @@
-package Chara01;
+package ClassBasics.Chara01;
 
 public class Chara {
     private String name;

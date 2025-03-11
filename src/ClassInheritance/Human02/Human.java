@@ -1,4 +1,4 @@
-package Human02;
+package ClassInheritance.Human02;
 
 public class Human {
     private String name;

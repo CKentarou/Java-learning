@@ -1,4 +1,4 @@
-package Human02;
+package ClassInheritance.Human02;
 
 public class Esper extends Human {
     public Esper(String name) {

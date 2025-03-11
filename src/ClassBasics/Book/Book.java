@@ -1,4 +1,4 @@
-package Book;
+package ClassBasics.Book;
 
 public class Book {
     private String title;

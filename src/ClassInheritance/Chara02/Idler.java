@@ -1,4 +1,4 @@
-package Chara02;
+package ClassInheritance.Chara02;
 
 public class Idler extends Chara {
     public Idler(String name) {

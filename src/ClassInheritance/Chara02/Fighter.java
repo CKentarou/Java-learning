@@ -1,4 +1,4 @@
-package Chara02;
+package ClassInheritance.Chara02;
 
 public class Fighter extends Chara {
     public Fighter(String name) {
