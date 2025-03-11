@@ -1,4 +1,4 @@
-package Chara1;
+package Chara01;
 
 public class Chara {
     private String name;

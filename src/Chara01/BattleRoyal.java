@@ -1,4 +1,4 @@
-package Chara1;
+package Chara01;
 import java.util.Random;
 
 public class BattleRoyal {
