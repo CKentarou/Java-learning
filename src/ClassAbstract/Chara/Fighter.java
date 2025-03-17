@@ -1,8 +1,8 @@
 package ClassAbstract.Chara;
 
 public class Fighter extends Chara{
-    public Fighter(String name, int hp) {
-        super(name, hp);
+    public Fighter(String name) {
+        super(name);
     }
 
     public void chop(Chara c) {

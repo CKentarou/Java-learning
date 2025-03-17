@@ -1,8 +1,8 @@
 package ClassAbstract.Chara;
 
 public class Magician extends Chara{
-    public Magician(String name, int hp) {
-        super(name, hp);
+    public Magician(String name) {
+        super(name);
     }
 
     public void magic(Chara c) {

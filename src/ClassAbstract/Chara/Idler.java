@@ -1,8 +1,8 @@
 package ClassAbstract.Chara;
 
 public class Idler extends Chara{
-    public Idler(String name, int hp) {
-        super(name, hp);
+    public Idler(String name) {
+        super(name);
     }
 
     public void idle() {
