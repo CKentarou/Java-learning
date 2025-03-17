@@ -1,4 +1,4 @@
-package ClassAbstract;
+package ClassAbstract.Instrument;
 
 public class Piano extends Instrument{
     public Piano() { super(); }

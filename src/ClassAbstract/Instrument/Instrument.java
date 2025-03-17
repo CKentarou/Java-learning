@@ -1,4 +1,4 @@
-package ClassAbstract;
+package ClassAbstract.Instrument;
 
 public abstract class Instrument {
     public Instrument() {}

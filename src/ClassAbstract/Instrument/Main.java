@@ -1,4 +1,4 @@
-package ClassAbstract;
+package ClassAbstract.Instrument;
 
 public class Main {
     public static void main(String[] args) {
